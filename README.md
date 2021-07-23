@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manishdiwan07
+- 👋 Hi, I’m @manishdiwan
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning ROS, blockchain
 - 💞️ I’m looking to collaborate on ros
